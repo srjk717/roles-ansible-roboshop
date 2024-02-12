@@ -4,4 +4,4 @@
     state: installed
 
 - name: load mysql schema
-  ansible.builtin.shell: mysql -h mysql.rahuldevops.cloud -uroot -pRoboShop@1 < /app/schema/shipping.sql 
+  ansible.builtin.shell: mysql -h mysql.rahuldevops.cloud -uroot -pRoboShop@1 < /app/schema/{{component}}.sql 
