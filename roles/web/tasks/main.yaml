@@ -30,9 +30,9 @@
     dest: /usr/share/nginx/html
     remote_src: yes
     
-- name: copy roboshop.config
+- name: copy roboshop.conf
   ansible.builtin.template:
-    src: roboshop.config
+    src: roboshop.conf
     dest: /etc/nginx/default.d/roboshop.conf 
   notify:
     - restart nginx
