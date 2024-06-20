@@ -1,5 +1,5 @@
-CATALOGUE_HOST: catalogue.rahuldevops.cloud
-USER_HOST: user.rahuldevops.cloud
-CART_HOST: cart.rahuldevops.cloud
-SHIPPING_HOST: shipping.rahuldevops.cloud
-PAYMENT_HOST: payment.rahuldevops.cloud
+CATALOGUE_HOST: catalogue.rahuldevops.online
+USER_HOST: user.rahuldevops.online
+CART_HOST: cart.rahuldevops.online
+SHIPPING_HOST: shipping.rahuldevops.online
+PAYMENT_HOST: payment.rahuldevops.online

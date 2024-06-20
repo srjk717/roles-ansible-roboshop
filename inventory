@@ -1,29 +1,29 @@
 [mongodb]
-mongodb.rahuldevops.cloud
+mongodb.rahuldevops.online
 
 [catalogue]
-catalogue.rahuldevops.cloud
+catalogue.rahuldevops.online
 
 [web]
-web.rahuldevops.cloud
+web.rahuldevops.online
 
 [redis]
-redis.rahuldevops.cloud
+redis.rahuldevops.online
 
 [user]
-user.rahuldevops.cloud
+user.rahuldevops.online
 
 [cart]
-cart.rahuldevops.cloud
+cart.rahuldevops.online
 
 [mysql]
-mysql.rahuldevops.cloud
+mysql.rahuldevops.online
 
 [shipping]
-shipping.rahuldevops.cloud
+shipping.rahuldevops.online
 
 [rabbitmq]
-rabbitmq.rahuldevops.cloud
+rabbitmq.rahuldevops.online
 
 [payment]
-payment.rahuldevops.cloud
+payment.rahuldevops.online
